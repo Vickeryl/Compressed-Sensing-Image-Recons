@@ -9,7 +9,7 @@
 % OUTPUT:
 %   imgOut: recovered image
 %
-% @ 2011 Huapeng Zhou -- huapengz@andrew.cmu.edu
+% @ 2015 Uzair Ahmed -- uzaira@andrew.cmu.edu
 tic;
 
 % image=imgRead(imgIn);
